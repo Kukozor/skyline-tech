@@ -1,2 +1,2 @@
 # skyline-tech
-this is a repo containing obidient tect space assignment table1 with cohort21 members name, score , courses, and grade 
+this branch contains the table2 assignment with the informations of cohort21 members, e.g full name, course, and approved button.
